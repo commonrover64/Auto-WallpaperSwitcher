@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WALLPAPER_DIR="/home/rover/Pictures/wallpapers/aesthetic-wallpapers/images"
+WALLPAPER_DIR="$HOME/Pictures/wallpapers"    # Folder containing wallpapers
 INTERVAL=300           # Time between changes in seconds
 RANDOM_MODE=true       # Set to false for sequential mode
 
