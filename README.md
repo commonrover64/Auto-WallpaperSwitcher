@@ -19,7 +19,8 @@ You can configure the change interval and choose between **sequential** or **ran
    cd Auto-WallpaperSwitcher
 
 2. Configure the script:
-  Open wallpaper_changer.sh in your favorite text editor and set:
+   
+  Open auto_wallpaperSwitcher.sh in your favorite text editor and set:
   
   ```bash
   WALLPAPER_DIR="/path/to/your/images"   # Folder containing wallpapers
