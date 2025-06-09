@@ -13,13 +13,13 @@ You can configure the change interval and choose between **sequential** or **ran
 
 ## 🚀 Usage
 
-1. Clone the repository:
+### 1. **Clone the repository:**
    ```bash
    git clone https://github.com/commonrover64/Auto-WallpaperSwitcher.git
    cd Auto-WallpaperSwitcher
-
-2. Configure the script:
-   
+   ```
+### 2. **Configure the script:**
+  
   Open auto_wallpaperSwitcher.sh in your favorite text editor and set:
   
   ```bash
@@ -28,11 +28,11 @@ You can configure the change interval and choose between **sequential** or **ran
   RANDOM_MODE=true                       # true for random mode, false for sequential
   ```
 
-3. Make the script executable:
+### 3. **Make the script executable:**
   ```bash
   chmod +x auto_wallpaperSwitcher.sh
   ```
 
-4. Run the script:
+### 4. **Run the script:**
   ```bash
   ./auto_wallpaperSwitcher.sh
