@@ -1,8 +1,5 @@
 # Auto-WallpaperSwitcher
-A simple Bash script to automatically change your desktop wallpaper at regular intervals. Choose between sequential or random image rotation from any folder you like.
-
-
-**Auto-WallpaperSwitcher** is a lightweight Bash script that automatically updates your desktop wallpaper from a folder of images.  
+A lightweight Bash script that automatically updates your desktop wallpaper from a folder of images.  
 You can configure the change interval and choose between **sequential** or **random** wallpaper switching.
 
 ---
